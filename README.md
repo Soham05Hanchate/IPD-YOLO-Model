@@ -6,6 +6,8 @@ This repository contains a custom-trained YOLO object detection model developed 
 
 🔍 Project Overview
 
+![Conveyor Belt Photo](conveyor%20belt%20photo.jpeg)
+
 Designed and trained a YOLO (You Only Look Once) model for real-time object detection
 
 Built a custom dataset tailored to the project requirements
@@ -16,7 +18,7 @@ Implemented Python-based inference to run the trained model on a live webcam fee
 
 Images were manually annotated using Roboflow
 
-Dataset includes approximately 700 images after augmentation
+Dataset includes 949 images after augmentation
 
 Applied augmentation techniques such as:
 
@@ -38,7 +40,11 @@ Optimized for real-time performance with acceptable accuracy
 
 Final trained weights are included in this repository
 
+90% is train set and 10% is test set
+
 🎥 Real-Time Inference
+
+![Gear](gear.jpeg)
 
 Python script provided to:
 
